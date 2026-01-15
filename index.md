@@ -1,9 +1,14 @@
 ---
 layout: single
-title: "Home"
+title: "Anna Laura Erdei"
 permalink: /
 author_profile: true
 classes: wide
+
+header:
+  image: /assets/img/home-hero.jpg
+  image_description: "Chemical ecology and art"
+  overlay_filter: 0.25
 ---
 
 I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management.  

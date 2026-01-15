@@ -2,7 +2,7 @@ title: "Anna Laura Erdei"
 description: "Chemical ecology • insect olfaction • visual art"
 
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 
 plugins:
   - jekyll-include-cache

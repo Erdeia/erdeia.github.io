@@ -4,9 +4,9 @@ title: Projects
 ---
 
 <div class="proj-section">
-  <a href="/assets/projects/Erdeia2025b.png">
+  <a href="/assets/projects/Erdei_etal2025b">
     <img class="proj-section-img"
-         src="/assets/projects/Erdeia2025b.png"
+         src="/assets/projects/Erdei_etal2025b"
          alt="Codling moth chemical ecology project">
   </a>
 
@@ -63,12 +63,10 @@ title: Projects
     </ul>
   </div>
 </div>
-<div class="proj-section">
-  <a href="/assets/projects/interdisciplinary_art.png">
-    <img class="proj-section-img"
-         src="/assets/projects/interdisciplinary_art.png"
-         alt="Interdisciplinary olfactory art project">
-  </a>
+---
+
+
+---
 
   <div class="proj-section">
   <a href="/assets/projects/interdisciplinary_art.png">

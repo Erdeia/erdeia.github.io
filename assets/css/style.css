@@ -1,0 +1,23 @@
+.pub {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 16px;
+  margin: 24px 0;
+  align-items: start;
+}
+
+.pub-fig {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.pub-text p {
+  margin: 0.4em 0;
+}
+
+@media (max-width: 700px) {
+  .pub {
+    grid-template-columns: 1fr;
+  }
+}

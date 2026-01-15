@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-## Current research
+## Ongoing research projects
 
 My current research focuses on the identification of behaviour-modifying chemicals and the associated olfactory receptors (ORs) that encode host specificity in the codling moth, <em>Cydia pomonella</em>. I investigate how specific volatile cues are detected and translated into behavioural decisions relevant for mate finding and host location.
 
@@ -13,7 +13,7 @@ As a postdoctoral researcher, I work under the guidance of Marie Bengtsson and P
 
 ---
 
-## Previous research
+## Previous research projects
 
 During my PhD, I investigated the biosynthesis and degradation of chlorophyll precursors using fluorescence and absorption spectroscopy, with a focus on photochemical and developmental regulation.
 

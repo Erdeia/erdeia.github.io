@@ -2,6 +2,7 @@
 layout: single
 title: "Anna Laura Erdei"
 permalink: /
+author_profile: true
 classes: wide
 ---
 

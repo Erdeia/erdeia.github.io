@@ -1,10 +1,8 @@
 ---
 layout: single
-title: Home
+title: Erdei Anna Laura
 permalink: /
 ---
-
-# Anna Laura Erdei
 
 *Chemical ecology · insect olfaction · art–science*
 

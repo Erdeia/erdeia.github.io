@@ -4,9 +4,9 @@ title: Projects
 ---
 
 <div class="proj-section">
-  <a href="/assets/projects/Erdei_etal2025b.png">
+  <a href="/assets/projects/ongoing_projects.jpg">
     <img class="proj-section-img"
-         src="/assets/projects/Erdei_etal2025b.png"
+         src="/assets/projects/ongoing_projects.jpg"
          alt="Codling moth chemical ecology project">
   </a>
 

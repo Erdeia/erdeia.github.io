@@ -19,18 +19,44 @@ title: Publications
     </p>
 
   <p>
-      <a href="https://doi.org/10.7554/eLife.88695">DOI</a> ·
-      <a href="https://elifesciences.org/articles/88695">Article</a>
+      <a href="https://doi.org/10.7554/eLife.88695">Article</a> ·
+    </p>
+
+  <details>
+      <summary>Abstract</summary>
+Over two decades ago, an intercropping strategy was developed that received critical acclaim for synergizing food security with ecosystem resilience in smallholder farming. The push–pull strategy reportedly suppresses lepidopteran pests in maize through a combination of a repellent intercrop (push), commonly Desmodium spp., and an attractive, border crop (pull). Key in the system is the intercrop’s constitutive release of volatile terpenoids that repel herbivores. However, the earlier described volatile terpenoids were not detectable in the headspace of Desmodium, and only minimally upon herbivory. This was independent of soil type, microbiome composition, and whether collections were made in the laboratory or in the field. Furthermore, in oviposition choice tests in a wind tunnel, maize with or without an odor background of Desmodium was equally attractive for the invasive pest Spodoptera frugiperda. In search of an alternative mechanism, we found that neonate larvae strongly preferred Desmodium over maize. However, their development stagnated and no larva survived. In addition, older larvae were frequently seen impaled and immobilized by the dense network of silica-fortified, non-glandular trichomes. Thus, our data suggest that Desmodium may act through intercepting and decimating dispersing larval offspring rather than adult deterrence. As a hallmark of sustainable pest control, maize–Desmodium push–pull intercropping has inspired countless efforts to emulate stimulo-deterrent diversion in other cropping systems. However, detailed knowledge of the actual mechanisms is required to rationally improve the strategy, and translate the concept to other cropping systems.
+    </p>
+    </p>
+    </details>
+  </div>
+</div>
+<!-- 2025 Erdei cydia paper (text-only for now) -->
+<div class="pub">
+  <a href="/assets/pubs/Erdei_etal2025b.png">
+    <img class="pub-fig" src="/assets/pubs/Erdei_etal2025b.png" alt="Graphical abstract for Erdei et al. 2025">
+  </a>
+
+  <div class="pub-text">
+    <p>
+  <strong>Erdei, A. L.</strong>, Sousa, M., Gonzalez, F., Bengtsson, M., &amp; Witzgall, P. (2025).
+      Host plant odour and sex pheromone are integral to mate finding in codling moth.
+      <em>Journal of Chemical Ecology</em>, 51(1), 13.
+    </p>
+
+  <p>
+      <a href="https://doi.org/10.1007/s10886-025-01568-4">Article</a> ·
     </p>
 
   <details>
       <summary>Abstract</summary>
       <p>
-        Over two decades ago, an intercropping strategy was developed that received critical acclaim for synergizing food security with ecosystem resilience in smallholder farming. The push–pull strategy reportedly suppresses lepidopteran pests in maize through a combination of a repellent intercrop (push), commonly <em>Desmodium</em> spp., and an attractive, border crop (pull). Key in the system is the intercrop’s constitutive release of volatile terpenoids that repel herbivores. However, the earlier described volatile terpenoids were not detectable in the headspace of <em>Desmodium</em>, and only minimally upon herbivory. This was independent of soil type, microbiome composition, and whether collections were made in the laboratory or in the field. Furthermore, in oviposition choice tests in a wind tunnel, maize with or without an odor background of <em>Desmodium</em> was equally attractive for the invasive pest <em>Spodoptera frugiperda</em>. In search of an alternative mechanism, we found that neonate larvae strongly preferred <em>Desmodium</em> over maize. However, their development stagnated and no larva survived. In addition, older larvae were frequently seen impaled and immobilized by the dense network of silica-fortified, non-glandular trichomes. Thus, our data suggest that <em>Desmodium</em> may act through intercepting and decimating dispersing larval offspring rather than adult deterrence. As a hallmark of sustainable pest control, maize–<em>Desmodium</em> push–pull intercropping has inspired countless efforts to emulate stimulo-deterrent diversion in other cropping systems. However, detailed knowledge of the actual mechanisms is required to rationally improve the strategy, and translate the concept to other cropping systems.
+The great diversity of specialist plant-feeding insects suggests that host plant shifts may initiate speciation, even without geographic barriers. Pheromones and kairomones mediate sexual communication and host choice, and the response to these behaviour-modifying chemicals is under sexual and natural selection, respectively. The concept that the interaction of mate signals and habitat cues facilitates reproductive isolation and ecological speciation is well established, while the traits and the underlying sensory mechanisms remain unknown. The larva of codling moth feeds in apple and other rosaceous fruits. We show for the first time that the response of male moths to female sex pheromone codlemone relies upon presence of pear ester, a kairomone emitted by host fruit. In the non-host tree birch, attraction to pheromone alone is very strongly reduced, but is fully rescued by blending pheromone with kairomone. This affords a mechanism how host plant shifts shape new mate-finding signals that can give rise to assortative mating and reproductive isolation.
+
     </p>
     </details>
   </div>
 </div>
+
 <!-- 2025 Parasites & Vectors paper (text-only for now) -->
 <div class="pub">
   <a href="/assets/pubs/Erdei_etal2025.png">
@@ -49,7 +75,7 @@ title: Publications
     </p>
 
   <p>
-      <a href="https://doi.org/10.1186/s13071-025-06850-8">DOI</a>
+      <a href="https://doi.org/10.1186/s13071-025-06850-8">Article</a>
     </p>
 
   <details>
@@ -72,13 +98,13 @@ Phortica variegata exhibits sexual dimorphism in olfactory responsivity, with ma
 
   <div class="pub-text">
     <p>
-      <strong>Kecskeméti, S.</strong>, Erdei, A. L., Simon, J., Kiss, B., &amp; Molnár, B. P. (2025).
+      Kecskeméti, S., <strong>Erdei, A. L.</strong>, Simon, J., Kiss, B., &amp; Molnár, B. P. (2025).
       Oviposition behaviour of <em>Rhagoletis completa</em> on dead-end host
       <em>Cydonia oblonga</em>.
       <em>Scientific Reports</em>, 15(1), 11070.
     </p>
   <p>
-      <a href="https://doi.org/10.1038/s41598-025-88677-y">DOI</a>
+      <a href="https://doi.org/10.1038/s41598-025-88677-y">Article</a>
     </p>
 
   <details>
@@ -91,6 +117,36 @@ Host finding behaviour and host acceptance for oviposition is a rather complex p
   </div>
 </div>
 
+<!-- 2025 Nyikopapr -->
+<div class="pub">
+  <a href="/assets/pubs/Nyiko_etal2025.jpg">
+    <img class="pub-fig"
+         src="/assets/pubs/Nyiko_etal2025.jpg"
+         alt="Key figure for Nyiko et al. 2025">
+  </a>
+
+  <div class="pub-text">
+    <p>
+Nyikó, T., Gyula, P., Ráth, S., Sós-Hegedűs, A., Csorba, T., Abbas, S. H.,
+      Bóka, K., Pettkó-Szandtner, A., Móricz Á. M., Molnár, B. P.,
+      <strong>Erdei, A. L.</strong>, &amp; Szittya, G. (2025).
+      INCREASED DNA METHYLATION 3 forms a potential chromatin remodelling complex
+      with HAIRPLUS to regulate DNA methylation and trichome development in tomato.
+      <em>The Plant Journal</em>, 121(6), e70085.
+    </p>
+  <p>
+      <a href="https://doi.org/10.1111/tpj.70085">Article</a>
+    </p>
+
+  <details>
+      <summary>Abstract</summary>
+      <p>
+DNA methylation, a dynamic epigenetic mark influencing gene expression, is regulated by DNA demethylases that remove methylated cytosines at genomic regions marked by the INCREASED DNA METHYLATION (IDM) complex. In Arabidopsis, IDM3, a small alpha-crystalline domain-containing protein, stabilises the IDM complex. To investigate its role in tomato, we generated slidm3 mutants using genome editing. These mutants displayed a 'hairy' phenotype with increased glandular trichomes, resembling the hairplus (hap) mutant. Affinity purification of SlIDM3-GFP associated proteins identified several chromatin remodelling factors, including HAP. Genome-wide DNA methylation analysis revealed sequence context dependent alterations in the slidm3-1 plants, similar to the hap mutant. CHH methylation was predominantly increased, while CG methylation, particularly in intergenic regions, was decreased in both mutants. This imbalanced methylation suggests the presence of a 'methylstat' mechanism attempting to restore methylation levels at abnormally demethylated sites in the mutants. Comparative functional analysis of differentially methylated regions in the slidm3-1 and hap mutants identified potential methylation-regulated genes that could be linked to the hairy phenotype. Our findings indicate that SlIDM3 may form a chromatin remodelling complex with HAP, epigenetically regulating trichome development.
+
+ </p>
+    </details>
+  </div>
+</div>
 ## Full publication list
 For a complete and up-to-date list, see my
 [Google Scholar](https://scholar.google.com/citations?user=yNpKwOkAAAAJ).

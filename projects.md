@@ -17,14 +17,13 @@ As a postdoctoral researcher, I work under the guidance of Marie Bengtsson and P
 
 During my PhD, I investigated the biosynthesis and degradation of chlorophyll precursors using fluorescence and absorption spectroscopy, with a focus on photochemical and developmental regulation.
 
-Over time, my research interests expanded toward plant–herbivore–microbiome interactions and the volatile cues mediating these interactions. At the Plant Protection Institute of the Hungarian Academy of Sciences, I studied olfactory and behavioural differences between seasonal morphs of <em>Drosophila suzukii</em>, linking chemical cues to insect behavioural plasticity.
-
+Over time, my research interests expanded toward plant–herbivore–microbiome interactions and the volatile cues mediating these interactions. At the Plant Protection Institute of the Hungarian Academy of Sciences, I studied olfactory and behavioural differences between seasonal morphs of <em>Drosophila suzukii</em>, linking chemical cues to insect behavioural plasticity. As a visiting researcher in the Department of Plant Protection Biology, I investigated the field control of Drosophila suzukii using yeast-based lures in attract-and-kill systems. I also collaborated with Teun Dekker on elucidating the mechanisms underlying pest suppression in the Desmodium–maize push–pull intercropping system.
 I have also contributed to several research projects on invasive and emerging pest species, including:
 - identification of the sex pheromone of <em>Duponchelia fovealis</em>,
 - identification of oviposition deterrents and repellents against the boxwood moth <em>Cydalima perspectalis</em>,
 - identification of repellents against the fungus gnat <em>Lycoriella ingenua</em>.
-
 As a visiting researcher in the Department of Plant Protection Biology, I investigated the field control of <em>Drosophila suzukii</em> using yeast-based lures in attract-and-kill systems. I also collaborated with Teun Dekker on elucidating the mechanisms underlying pest suppression in the <em>Desmodium</em>–maize push–pull intercropping system.
+
 ---
 
 ## Interdisciplinary / artistic projects

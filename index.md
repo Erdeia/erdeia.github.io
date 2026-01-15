@@ -9,12 +9,12 @@ My interest lies in making the unseen perceptible—exploring how transient chem
 
 **Email:** anna.erdei@slu.se hagymaanna@gmail.com
 **Links:** 
--[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=hu&hl=hu&user=yNpKwOkAAAAJ&sortby=pubdate) ·
--[ORCID](https://orcid.org/0000-0002-7819-1287) ·
--[GitHub](https://github.com/erdeia) · 
--[Researchgate](https://github.com/erdeia](https://www.researchgate.net/profile/Anna-Erdei-2?ev=hdr_xprf) · 
--[University Homepage](https://github.com/erdeia](https://www.slu.se/en/profilepages/e/anna-erdei/) · 
--[Instagram](https://github.com/erdeia](https://www.instagram.com/anna_tardigrada/) · 
+-[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=hu&hl=hu&user=yNpKwOkAAAAJ&sortby=pubdate)
+-[ORCID](https://orcid.org/0000-0002-7819-1287)
+-[GitHub](https://github.com/erdeia) 
+-[Researchgate](https://github.com/erdeia](https://www.researchgate.net/profile/Anna-Erdei-2?ev=hdr_xprf)
+-[University Homepage](https://github.com/erdeia](https://www.slu.se/en/profilepages/e/anna-erdei/)
+-[Instagram](https://github.com/erdeia](https://www.instagram.com/anna_tardigrada/)
 
 ### Highlights
 - Research focus: insect olfaction, volatile organic compounds, chemical ecology

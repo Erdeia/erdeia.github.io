@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: single
 title: Home
+permalink: /
 ---
 
 # Anna Laura Erdei

@@ -2,30 +2,16 @@
 layout: single
 title: "Anna Laura Erdei"
 permalink: /
-author_profile: true
+classes: wide
 ---
 
-I study the chemical ecology of plant–insect–microbe interactions, with a focus on volatile-mediated communication and applications in pest management.
-
+I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management.  
 My interest lies in making the unseen perceptible—mapping and re-imagining transient chemical signals through scientific and artistic practices.
 
-**Explore:**
-- → [Projects](/projects.html)
-- → [Publications](/publications.html)
-- → [Teaching](/teaching.html)
-- → [CV](/cv.html)
-- → [Art](/art/)
- ---
-
-### Contact
-**Email:** anna.erdei@slu.se · hagymaanna@gmail.com
-
----
-
-### Links
-- [Google Scholar](...)
-- [ORCID](...)
-- [GitHub](...)
-- [ResearchGate](...)
-- [University Homepage](...)
-- [Instagram](...)
+<div class="home-buttons">
+  <a class="btn" href="/projects.html">Projects</a>
+  <a class="btn" href="/publications.html">Publications</a>
+  <a class="btn" href="/art/">Art</a>
+  <a class="btn" href="/teaching.html">Teaching</a>
+  <a class="btn" href="/cv.html">CV</a>
+</div>

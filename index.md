@@ -23,7 +23,7 @@ My interest lies in making the unseen perceptible—exploring how transient chem
 - Interests: human-non-human interaction, smellscapes, visual art
 
 → [Projects](/projects.html)  
-→ [Teaching](/teaching.html)
-→ [CV](cv.md)
-→ [Publications](publications.md)
-→ [Art](art/)
+→ [Teaching](/teaching.html)  
+→ [CV](cv.md)  
+→ [Publications](publications.md)  
+→ [Art](art/)  

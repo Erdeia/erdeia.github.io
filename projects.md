@@ -32,7 +32,7 @@ title: Projects
 
 ---
 
-## Inte<div class="proj-section">
+<div class="proj-section">
   <a href="/assets/projects/teaching2.png">
     <img class="proj-section-img"
          src="/assets/projects/teaching2.png"
@@ -70,9 +70,15 @@ title: Projects
          alt="Interdisciplinary olfactory art project">
   </a>
 
+  <div class="proj-section">
+  <a href="/assets/projects/interdisciplinary_art.png">
+    <img class="proj-section-img"
+         src="/assets/projects/interdisciplinary_art.png"
+         alt="Previous research projects overview">
+  </a>
+
   <div class="proj-section-text">
-  
-  <h2>Interdisciplinary / artistic projects</h2>
+    <h2>Interdisciplinary / artistic projects</h2>
 
   <p>
       Chemical cues form the primary language of plants and insects, yet remain largely

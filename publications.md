@@ -5,8 +5,8 @@ title: Publications
 
 ## Selected publications
 <div class="pub">
-  <a href="/assets/pubs/Erdei_etal2024.jpg">
-    <img class="pub-fig" src="/assets/pubs/Erdei_etal2024.jpg" alt="Graphical abstract for Erdei et al. 2024">
+  <a href="/assets/pubs/Erdei_etal2024.png">
+    <img class="pub-fig" src="/assets/pubs/Erdei_etal2024.png" alt="Graphical abstract for Erdei et al. 2024">
   </a>
 
   <div class="pub-text">

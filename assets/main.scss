@@ -62,4 +62,18 @@ body {
   font-family: "Libre Baskerville", Georgia, serif;
 }
 
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
 
+a:hover {
+  text-decoration-thickness: 2px;
+}
+.page__content p {
+  line-height: 1.65;
+}
+
+.page__content {
+  font-size: 1.05rem;
+}

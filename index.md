@@ -21,4 +21,8 @@ My interest lies in making the unseen perceptible—exploring how transient chem
 - Research focus: insect olfaction, volatile organic compounds, chemical ecology
 - Methods: analytical chemistry, volatile collection, gas chromatography coupled mass spectrometry (high res), olfactory electrohpysiology
 - Interests: human-non-human interaction, smellscapes, visual art
+
+→ [Projects](projects.md)  
+→ [Teaching](teaching.md)
+
 ➡️ See: [CV](cv.md) • [Publications](publications.md) • [Art](art/)

@@ -22,7 +22,6 @@ title: Projects
   </div>
 </div> 
 
-
 ---
 
 <div class="proj-section">
@@ -36,14 +35,13 @@ title: Projects
     <h2>Previous research projects</h2>
 
    <p>
-      During my PhD, I investigated the biosynthesis and degradation of chlorophyll
-      precursors using fluorescence and absorption spectroscopy. My work later expanded to plant–herbivore–microbiome interactions and volatile cues
-      mediating insect behaviour, including studies on <em>Drosophila suzukii</em>. I have also contributed to research on invasive and emerging pests, including sex pheromone identification of <em>Duponchelia fovealis</em></li> <li>repellents against <em>Cydalima perspectalis</em></li>
-      <li>repellents against <em>Lycoriella ingenua</em></li>
-    </ul>
+    During my PhD, I investigated the biosynthesis and degradation of chlorophyll
+    precursors using fluorescence and absorption spectroscopy. My work later expanded to plant–herbivore–microbiome interactions and volatile cues
+    mediating insect behaviour, including studies on <em>Drosophila suzukii</em>. I have also contributed to research on invasive and emerging pests, 
+     including sex pheromone identification of <em>Duponchelia fovealis</em> repellents against <em>Cydalima perspectalis</em> repellents against <em>Lycoriella ingenua</em>
+        </p>
   </div>
 </div>
-
 
 ---
 

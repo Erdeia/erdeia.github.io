@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Anna Laura Erdei"
+title: "Introduction"
 permalink: /
 author_profile: true
 classes: wide
@@ -11,8 +11,7 @@ header:
   overlay_filter: 0.25
 ---
 
-I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management.  
-My interest lies in making the chemical communication humanly perceptible and re-imagining transient chemical signals through scientific and artistic practices.
+I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management. My interest lies in making the chemical communication humanly perceptible and re-imagining transient chemical signals through scientific and artistic practices.
 
 <div class="home-buttons">
   <a class="btn" href="/projects.html">Projects</a>

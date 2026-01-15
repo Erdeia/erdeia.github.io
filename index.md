@@ -8,6 +8,7 @@ I study the chemical ecology of plant–insect–microbe interactions, with a fo
 My interest lies in making the unseen perceptible—exploring how transient chemical signals can be mapped, visualized, and re-imagined through both scientific and artistic practices.
 
 **Email:** anna.erdei@slu.se hagymaanna@gmail.com
+
 **Links**
 - [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=yNpKwOkAAAAJ&sortby=pubdate)
 - [ORCID](https://orcid.org/0000-0002-7819-1287)

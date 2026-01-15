@@ -24,5 +24,6 @@ My interest lies in making the unseen perceptible—exploring how transient chem
 
 → [Projects](/projects.html)  
 → [Teaching](/teaching.html)
-
-➡️ See: [CV](cv.md) • [Publications](publications.md) • [Art](art/)
+→ [CV](cv.md)
+→ [Publications](publications.md)
+→ [Art](art/)

@@ -27,7 +27,6 @@ title: Projects
   </p>
   </div>
 </div> 
----
 
 
 ---
@@ -63,12 +62,11 @@ title: Projects
     </ul>
   </div>
 </div>
----
 
 
 ---
 
-  <div class="proj-section">
+<div class="proj-section">
   <a href="/assets/projects/interdisciplinary_art.png">
     <img class="proj-section-img"
          src="/assets/projects/interdisciplinary_art.png"

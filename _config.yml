@@ -1,6 +1,6 @@
 title: "Anna Laura Erdei"
 description: "Chemical ecology • insect olfaction • visual art"
-theme: minima
+theme: jekyll-theme-cayman
 
 header_pages:
   - cv.md

@@ -1,29 +1,21 @@
 ---
 layout: single
-title: Erdei Anna Laura
+title: "Anna Laura Erdei"
 permalink: /
+author_profile: true
 ---
 
-*Chemical ecology · insect olfaction · art–science*
+I study the chemical ecology of plant–insect–microbe interactions, with a focus on volatile-mediated communication and applications in pest management.
 
----
+My interest lies in making the unseen perceptible—mapping and re-imagining transient chemical signals through scientific and artistic practices.
 
-I study the chemical ecology of plant–insect–microbe interactions, with a focus on
-volatile-mediated communication and its applications in pest management.
-
-My interest lies in making the unseen perceptible — exploring how transient chemical
-signals can be mapped, visualized, and re-imagined through both scientific and artistic practices.
-
----
-
-### Explore
-→ [Projects](/projects.html)  
-→ [Publications](/publications.html)  
-→ [Teaching](/teaching.html)  
-→ [Curriculum Vitae](/cv.html)  
-→ [Art](/art/)
-
----
+**Explore:**
+- → [Projects](/projects.html)
+- → [Publications](/publications.html)
+- → [Teaching](/teaching.html)
+- → [CV](/cv.html)
+- → [Art](/art/)
+ ---
 
 ### Contact
 **Email:** anna.erdei@slu.se · hagymaanna@gmail.com

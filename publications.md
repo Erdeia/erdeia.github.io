@@ -6,7 +6,7 @@ title: Publications
 ## Selected publications
 
 <div class="pub">
-<img class="pub-fig" src="/assets/pubs/Erdei_etal2024.png" alt="Graphical abstract for Erdei et al. 2024">
+<img class="pub-fig" src="/assets/pubs/Erdei_etal2024.jpg" alt="Graphical abstract for Erdei et al. 2024">
   <div class="pub-text">
     <p>
      <strong>Erdei, A. L.</strong>, David, A. B., Savvidou, E. C.,

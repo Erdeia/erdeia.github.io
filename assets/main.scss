@@ -27,3 +27,29 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Project section layout */
+.proj-section {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 24px;
+  margin: 40px 0;
+  align-items: start;
+}
+
+.proj-section-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.proj-section-text h2 {
+  margin-top: 0;
+}
+
+/* Mobile */
+@media (max-width: 800px) {
+  .proj-section {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Anna Laura Erdei"
+title: "Home"
 permalink: /
 author_profile: true
 classes: wide

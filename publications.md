@@ -6,7 +6,7 @@ title: Publications
 ## Selected publications
 
 <div class="pub">
-  <img class="pub-fig" src="/assets/pubs/example_ga.png" alt="Graphical abstract example">
+<img class="pub-fig" src="/assets/pubs/David_Erdei_etal2024.png" alt="Graphical abstract for David et al. 2024">
   <div class="pub-text">
     <p>
       <strong>Erdei A</strong>, Coauthor B, Coauthor C (2024).

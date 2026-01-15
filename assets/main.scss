@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "minima";
-
 /* Publications layout */
 .pub {
   display: grid;
@@ -22,13 +20,7 @@
   margin: 0.4em 0;
 }
 
-@media (max-width: 700px) {
-  .pub {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* Project section layout */
+/* Projects layout */
 .proj-section {
   display: grid;
   grid-template-columns: 220px 1fr;
@@ -47,9 +39,9 @@
   margin-top: 0;
 }
 
-/* Mobile */
 @media (max-width: 800px) {
   .proj-section {
     grid-template-columns: 1fr;
   }
 }
+

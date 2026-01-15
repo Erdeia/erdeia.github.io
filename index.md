@@ -13,7 +13,7 @@ My interest lies in making the unseen perceptible—exploring how transient chem
 → [Publications](publications.md)  
 → [Art](art/)  
 
-**Email:** anna.erdei@slu.se hagymaanna@gmail.com
+**Email:** anna.erdei@slu.se  hagymaanna@gmail.com
 
 **Links**
 - [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=yNpKwOkAAAAJ&sortby=pubdate)

@@ -33,9 +33,9 @@ title: Projects
 ---
 
 ## Inte<div class="proj-section">
-  <a href="/assets/projects/teaching2.tiff">
+  <a href="/assets/projects/teaching2.png">
     <img class="proj-section-img"
-         src="/assets/projects/teaching2.tiff"
+         src="/assets/projects/teaching2.png"
          alt="Previous research projects overview">
   </a>
 

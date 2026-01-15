@@ -1,24 +1,35 @@
 Anna:
+  name: "Anna Laura Erdei"
+  avatar: "/assets/img/profile.png"
+  bio: "Chemical ecology · insect olfaction · visual art"
   location: "SLU, Sweden"
+
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:anna.erdei@slu.se"
+
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=yNpKwOkAAAAJ"
+
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-7819-1287"
+
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/erdeia"
+
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Anna-Erdei-2"
+
     - label: "University"
       icon: "fas fa-university"
       url: "https://www.slu.se/en/profilepages/e/anna-erdei/"
+
     - label: "Instagram"
       icon: "fab fa-instagram"
       url: "https://www.instagram.com/anna_tardigrada/"
+

@@ -64,9 +64,9 @@ Phortica variegata exhibits sexual dimorphism in olfactory responsivity, with ma
 
 <!-- 2025 Sanyipaper -->
 <div class="pub">
-  <a href="/assets/pubs/Kecskemeti_etal2025.png">
+  <a href="/assets/pubs/Kecskemeti_etal2025.webp">
     <img class="pub-fig"
-         src="/assets/pubs/Kecskemeti_etal2025.png"
+         src="/assets/pubs/Kecskemeti_etal2025.webp"
          alt="Key figure for Kecskemeti et al. 2025 (Phortica variegata)">
   </a>
 

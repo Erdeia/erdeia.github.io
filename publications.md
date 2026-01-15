@@ -49,13 +49,42 @@ title: Publications
     </p>
 
   <p>
-      <a href="https://doi.org/10.1186/s13071-025-06506-5">DOI</a>
+      <a href="https://doi.org/10.1186/s13071-025-06850-8">DOI</a>
     </p>
 
   <details>
       <summary>Abstract</summary>
       <p>
 Phortica variegata exhibits sexual dimorphism in olfactory responsivity, with males showing greater responsiveness to volatiles associated with host-seeking in other zoophilic dipterans, potentially guiding them to mammalian hosts for tear-feeding. Compared to D. melanogaster, P. variegata is more responsive to microbial and yeast-related volatiles and less responsive to plant-derived terpenoids, suggesting a foraging ecology linked to microbial substrates. The antennally detected volatiles identified in this study can be used as candidates for further behavioral studies to develop lures for vector management.
+
+ </p>
+    </details>
+  </div>
+</div>
+
+<!-- 2025 Sanyipaper -->
+<div class="pub">
+  <a href="/assets/pubs/Kecskemeti_etal2025.png">
+    <img class="pub-fig"
+         src="/assets/pubs/Kecskemeti_etal2025.png"
+         alt="Key figure for Kecskemeti et al. 2025 (Phortica variegata)">
+  </a>
+
+  <div class="pub-text">
+    <p>
+      <strong>Kecskeméti, S.</strong>, Erdei, A. L., Simon, J., Kiss, B., &amp; Molnár, B. P. (2025).
+      Oviposition behaviour of <em>Rhagoletis completa</em> on dead-end host
+      <em>Cydonia oblonga</em>.
+      <em>Scientific Reports</em>, 15(1), 11070.
+    </p>
+  <p>
+      <a href="https://doi.org/10.1038/s41598-025-88677-y">DOI</a>
+    </p>
+
+  <details>
+      <summary>Abstract</summary>
+      <p>
+Host finding behaviour and host acceptance for oviposition is a rather complex process amongst insects; it is a major decision that will have a direct effect on the performance of offspring. It is not uncommon that herbivorous insects oviposit on unsuitable hosts. The level of insect-host specialisation correlates with the likelihood of mis-oviposition incidence; polyphagous herbivore insect species have a higher chance to lay eggs on unsuitable hosts compared to specialised monophagous ones. Over several seasons, large numbers of walnut husk fly adults were observed on the canopy and fruit of European quince. Males were engaging in behaviours like fighting, courting, mating, and guarding oviposition sites, while females copulated, oviposited, or rested. Oviposition marks were found on quince fruits, with unhatched eggs, chorions, and newly hatched maggots inside. Molecular identification confirmed the species as Rhagoletis completa. To investigate this unusual host interaction, electrophysiological recordings were conducted on the antennae and maxillary palpi of WHF adults using quince and walnut fruit and foliage volatiles. Behavioural experiments also explored any preference for quince. The results showed that WHF adults, especially females, exhibited a positive attraction to quince fruit volatiles, indicating that their peripheral detection of volatiles is not limited to host-specific compounds. Based on these findings, we conclude that WHF adults treated quince as a suitable host for oviposition in a natural condition.
 
  </p>
     </details>

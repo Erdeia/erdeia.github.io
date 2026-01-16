@@ -15,28 +15,23 @@ I study the chemical ecology of plant–insect–microbe interactions, focusing 
 
 <div class="tile-grid">
 
-  <a class="tile" href="/projects.html">
-    <img class="tile__img" src="/assets/home/projects.jpg" alt="Projects">
+  <a class="tile tile--projects" href="/projects.html">
     <span class="tile__label">Projects</span>
   </a>
 
-  <a class="tile" href="/cv.html">
-    <img class="tile__img" src="/assets/home/cv.jpg" alt="CV">
+  <a class="tile tile--cv" href="/cv.html">
     <span class="tile__label">CV</span>
   </a>
 
-  <a class="tile" href="/publications.html">
-    <img class="tile__img" src="/assets/home/publications.jpg" alt="Publications">
+  <a class="tile tile--publications" href="/publications.html">
     <span class="tile__label">Publications</span>
   </a>
 
-  <a class="tile" href="/art/">
-    <img class="tile__img" src="/assets/home/art.jpg" alt="Art">
+  <a class="tile tile--art" href="/art/">
     <span class="tile__label">Art</span>
   </a>
 
-  <a class="tile" href="/teaching.html">
-    <img class="tile__img" src="/assets/home/teaching.jpg" alt="Teaching">
+  <a class="tile tile--teaching" href="/teaching.html">
     <span class="tile__label">Teaching</span>
   </a>
 

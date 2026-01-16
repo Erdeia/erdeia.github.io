@@ -296,3 +296,38 @@ a:hover {
 .page__content img {
   border-radius: 0 !important;
 }
+
+/* Top navigation: remove dark red accent */
+.masthead__menu-item a {
+  box-shadow: none;
+  border-bottom: none;
+}
+
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus {
+  color: inherit;
+  box-shadow: none;
+}
+
+/* Active page link */
+.masthead__menu-item .active {
+  color: inherit;
+  box-shadow: none;
+}
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus {
+  color: #4f6f5a; /* same green as tiles */
+}
+
+.masthead__menu-item .active {
+  color: #4f6f5a;
+}
+.btn {
+  background-color: #4f6f5a;
+  border-color: #4f6f5a;
+}
+
+.btn:hover {
+  background-color: #3f5c4b;
+  border-color: #3f5c4b;
+}

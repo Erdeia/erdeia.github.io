@@ -60,6 +60,37 @@ $heading-line-height: 1.25;
     grid-template-columns: 1fr;
   }
 }
+/* CV layout */
+
+.cv-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin: 0.25rem 0 0.55rem;
+}
+
+.cv-title {
+  flex: 1;
+  min-width: 0; /* allows proper wrapping behavior */
+}
+
+.cv-date {
+  white-space: nowrap;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+/* Mobile: allow stacking if needed */
+@media (max-width: 600px) {
+  .cv-item {
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+  .cv-date {
+    align-self: flex-start;
+  }
+}
 
 /* Home nav buttons */
 .home-buttons a.btn {

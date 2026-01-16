@@ -27,9 +27,9 @@ I study the chemical ecology of plant–insect–microbe interactions, focusing 
     <span class="tile__label">Teaching</span>
   </a>
 
-  <a class="tile tile--cv" href="/cv.html">
-    <span class="tile__label">CV</span>
-  </a>
+  <a class="tile tile--cv" href="/cv/">
+  <span class="tile__label">CV</span>
+</a>
 
 <a class="tile tile--art"
    href="https://www.instagram.com/anna_tardigrada/"

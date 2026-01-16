@@ -1,14 +1,16 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Projects"
     url: /projects.html
+
   - title: "Publications"
     url: /publications.html
+
   - title: "Teaching"
     url: /teaching.html
+
   - title: "CV"
     url: /cv/
+
   - title: "Art"
-  url: https://www.instagram.com/anna_tardigrada/
-  external: true
+    url: https://www.instagram.com/YOUR_USERNAME/
+    external: true

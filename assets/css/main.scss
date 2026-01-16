@@ -353,3 +353,27 @@ a:hover {
     text-decoration: none !important;
   }
 }
+
+/* Print-only CV header */
+.cv-print-header {
+  display: none;
+}
+
+@media print {
+  .cv-print-header {
+    display: block !important;
+    margin-bottom: 1.2rem;
+  }
+
+  .cv-print-header h1 {
+    margin: 0 0 0.25rem 0;
+    font-size: 22pt;
+    line-height: 1.1;
+  }
+
+  .cv-print-header p {
+    margin: 0;
+    font-size: 10.5pt;
+    opacity: 0.85;
+  }
+}

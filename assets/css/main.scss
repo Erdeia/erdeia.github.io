@@ -1,6 +1,15 @@
 ---
 ---
+/* Modern, clean font system */
+$header-font-family: "Inter", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 
+$base-font-family: "Inter", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+/* Optional fine-tuning */
+$base-font-size: 16px;
+$heading-line-height: 1.25;
 @import "minimal-mistakes/skins/contrast"; /* or air */
 @import "minimal-mistakes";
 
@@ -67,9 +76,6 @@
 }
 
 /* Typography */
-body {
-  font-family: "Libre Baskerville", Georgia, serif;
-}
 
 a {
   text-decoration-thickness: 1px;

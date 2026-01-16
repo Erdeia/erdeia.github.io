@@ -23,7 +23,7 @@ I study the chemical ecology of plant–insect–microbe interactions, focusing 
     <span class="tile__label">Publications</span>
   </a>
 
-  <a class="tile tile--art" href="/art/">
+  <a class="tile tile--art" href="/art.html/">
     <span class="tile__label">Art</span>
   </a>
 

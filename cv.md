@@ -14,9 +14,9 @@ classes: wide
 
 **Ecometabolomics for Ecologists (advanced course)** — German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany · *2019*
 
-**MSc in Biology (Plant Biology specialisation)** — Eötvös Loránd University, Budapest, Hungary · *2012–2014*
+**MSc in Biology (with distinction)** — Plant Biology specialisation, Eötvös Loránd University, Budapest, Hungary · *2012–2014*
 
-**BSc in Biology (with honours)** — Eötvös Loránd University, Budapest, Hungary · *2009–2012*
+**BSc in Biology (with distinction)** — Eötvös Loránd University, Budapest, Hungary · *2009–2012*
 
 **BSc in Psychology** — Eötvös Loránd University, Budapest, Hungary · *2008–2010*
 

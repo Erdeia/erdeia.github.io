@@ -1,0 +1,87 @@
+name: Build CV PDF from CV page
+
+on:
+  push:
+    paths:
+      - "cv.md"
+      - "cv_source.md"
+      - "assets/css/**"
+      - "_config.yml"
+      - ".github/workflows/cv_pdf_from_page.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-cv-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Playwright (Chromium)
+        run: |
+          npm init -y
+          npm i -D playwright
+          npx playwright install --with-deps chromium
+
+      - name: Serve built site locally
+        run: |
+          cd _site
+          python3 -m http.server 8080 --bind 127.0.0.1 &
+          echo $! > ../server.pid
+
+      - name: Render CV page to PDF
+        run: |
+          mkdir -p assets/cv
+          node - <<'NODE'
+          const { chromium } = require('playwright');
+
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage();
+
+            // Load the locally served CV page
+            await page.goto('http://127.0.0.1:8080/cv/', { waitUntil: 'networkidle' });
+
+            await page.pdf({
+              path: 'assets/cv/cv.pdf',
+              format: 'A4',
+              printBackground: true,
+              margin: { top: '16mm', right: '16mm', bottom: '16mm', left: '16mm' }
+            });
+
+            await browser.close();
+          })().catch((err) => {
+            console.error(err);
+            process.exit(1);
+          });
+          NODE
+
+      - name: Stop server
+        run: |
+          kill $(cat server.pid) || true
+
+      - name: Commit PDF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/cv/cv.pdf
+          git commit -m "Auto-update CV PDF" || exit 0
+          git push

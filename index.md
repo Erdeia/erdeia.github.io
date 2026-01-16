@@ -26,14 +26,18 @@ I study the chemical ecology of plant–insect–microbe interactions, focusing 
   <a class="tile tile--teaching" href="/teaching.html">
     <span class="tile__label">Teaching</span>
   </a>
-  
+
   <a class="tile tile--cv" href="/cv.html">
     <span class="tile__label">CV</span>
   </a>
 
- <a class="tile tile--art" href="/art/">
+  <a class="tile tile--art" href="/art/">
     <span class="tile__label">Art</span>
   </a>
+
+</div>
+
+ 
 
  
 </div>

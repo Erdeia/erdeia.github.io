@@ -340,3 +340,16 @@ a:hover {
 .masthead__menu-item .active {
   box-shadow: none !important;
 }
+
+@media print {
+  .masthead,
+  .page__footer,
+  .cv-download {
+    display: none !important;
+  }
+
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+}

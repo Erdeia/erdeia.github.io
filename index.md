@@ -16,7 +16,7 @@ I study the chemical ecology of plant–insect–microbe interactions, focusing 
 <div class="home-buttons">
   <a class="btn" href="/projects.html">Projects</a>
   <a class="btn" href="/publications.html">Publications</a>
-  <a class="btn" href="/art/">Art</a>
   <a class="btn" href="/teaching.html">Teaching</a>
   <a class="btn" href="/cv.html">CV</a>
+  <a class="btn" href="/art/">Art</a>
 </div>

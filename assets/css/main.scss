@@ -222,12 +222,7 @@ a:hover {
   .tile-grid {
     grid-template-columns: 1fr;
     grid-auto-rows: 140px;
-    gap: 0;              /* keep your no-gap look */
-  }
-
-  /* Make the hero tile taller */
-  .tile--projects {
-    min-height: 220px;
+    gap: 0; /* keep your no-gap look */
   }
 
   /* Let everything follow natural order (no pinned mosaic positions) */
@@ -241,20 +236,14 @@ a:hover {
     min-height: auto;
   }
 
-  /* Optional: slightly smaller label on mobile */
+  /* Make the hero tile taller */
+  .tile--projects {
+    min-height: 220px;
+  }
+
+  /* Slightly smaller label on mobile */
   .tile__label {
     font-size: 1rem;
-  }
-}
-
-  .tile--projects,
-  .tile--publications,
-  .tile--art,
-  .tile--teaching,
-  .tile--cv {
-    grid-column: auto;
-    grid-row: auto;
-    min-height: auto;
   }
 }
 

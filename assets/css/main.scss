@@ -151,12 +151,30 @@ a:hover {
 }
 
 /* Mosaic placement */
-.tile--projects { grid-column: 1 / span 2; grid-row: 1 / span 2; }
-.tile--publications { grid-column: 3 / span 2; grid-row: 1 / span 1; }
-.tile--art { grid-column: 3 / span 2; grid-row: 2 / span 1; }
-.tile--teaching { grid-column: 1 / span 2; grid-row: 3 / span 1; }
-.tile--cv { grid-column: 3 / span 2; grid-row: 3 / span 1; }
+.tile--projects {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+}
 
+.tile--publications {
+  grid-column: 3 / span 2;
+  grid-row: 1 / span 1;
+}
+
+.tile--teaching {
+  grid-column: 3 / span 2;
+  grid-row: 2 / span 1;
+}
+
+.tile--cv {
+  grid-column: 1 / span 2;
+  grid-row: 3 / span 1;
+}
+
+.tile--art {
+  grid-column: 3 / span 2;
+  grid-row: 3 / span 1;
+}
 .tile-grid { grid-auto-rows: 160px; }
 .tile--projects { min-height: 334px; }
 

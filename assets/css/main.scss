@@ -16,6 +16,53 @@ $heading-line-height: 1.25;
 /* ================================================= */
 /* ===== YOUR CUSTOM STYLES (moved from assets/main.scss) ===== */
 /* ================================================= */
+/* Global typography refinement */
+html {
+  font-size: 16px; /* default is often 17–18px in MM */
+}
+
+body {
+  line-height: 1.5; /* tighter than default, still readable */
+}
+
+.page__content p { /* reduce paragraph spacing */ 
+  margin-bottom: 0.9rem;
+}
+
+.page__content h1 { /* reduce font sizes for titles, less shouty */ 
+  font-size: 2.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.page__content h2 {
+  font-size: 1.45rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.page__content h3 {
+  font-size: 1.15rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.4rem;
+}
+
+.page__content {  /* make reading width wider */
+  max-width: 72ch;
+}
+
+.page__content ul,
+.page__content ol {
+  margin-bottom: 1rem;
+  padding-left: 1.2rem; /* <- this is what was missing */
+}
+
+.page__content li {
+  margin-bottom: 0.25rem;
+}
+
+.masthead__menu-item { /*reduce navigation bar */
+  font-size: 0.95rem;
+} 
 
 /* Publications layout */
 .pub {

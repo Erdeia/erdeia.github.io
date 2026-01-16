@@ -331,3 +331,12 @@ a:hover {
   background-color: #3f5c4b;
   border-color: #3f5c4b;
 }
+.masthead__menu-item a {
+  box-shadow: none !important;
+}
+
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus,
+.masthead__menu-item .active {
+  box-shadow: none !important;
+}

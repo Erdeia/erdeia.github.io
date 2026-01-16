@@ -37,10 +37,4 @@ I study the chemical ecology of plant–insect–microbe interactions, focusing 
    rel="noopener noreferrer">
   <span class="tile__label">Art</span>
 </a>
-
-</div>
-
- 
-
- 
 </div>

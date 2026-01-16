@@ -13,10 +13,26 @@ header:
 
 I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management. My interest lies in making the chemical communication humanly perceptible and re-imagining transient chemical signals through scientific and artistic practices.
 
-<div class="home-buttons">
-  <a class="btn" href="/projects.html">Projects</a>
-  <a class="btn" href="/publications.html">Publications</a>
-  <a class="btn" href="/teaching.html">Teaching</a>
-  <a class="btn" href="/cv.html">CV</a>
-  <a class="btn" href="/art/">Art</a>
+<div class="tile-grid">
+
+  <a class="tile tile--projects" href="/projects.html">
+    <span class="tile__label">Projects</span>
+  </a>
+
+  <a class="tile tile--publications" href="/publications.html">
+    <span class="tile__label">Publications</span>
+  </a>
+
+  <a class="tile tile--art" href="/art/">
+    <span class="tile__label">Art</span>
+  </a>
+
+  <a class="tile tile--teaching" href="/teaching.html">
+    <span class="tile__label">Teaching</span>
+  </a>
+
+  <a class="tile tile--cv" href="/cv.html">
+    <span class="tile__label">CV</span>
+  </a>
+
 </div>

@@ -10,4 +10,5 @@ main:
   - title: "CV"
     url: /cv/
   - title: "Art"
-    url: /art/
+  url: https://www.instagram.com/anna_tardigrada/
+  external: true

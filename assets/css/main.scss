@@ -354,12 +354,34 @@ a:hover {
   }
 }
 
-/* Print-only CV header */
+/* Print-only header (hidden on screen) */
 .cv-print-header {
   display: none;
 }
 
+/* Web download button styling */
+.cv-download {
+  margin: 0 0 1.25rem 0;
+}
+
+.cv-download__btn {
+  display: inline-block;
+  padding: 0.55rem 0.85rem;
+  border-radius: 0;
+  border: 1px solid rgba(0,0,0,0.18);
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1;
+  background: rgba(0,0,0,0.02);
+}
+
+.cv-download__btn:hover {
+  background: rgba(0,0,0,0.06);
+}
+
 @media print {
+  /* Show your name in PDF */
   .cv-print-header {
     display: block !important;
     margin-bottom: 1.2rem;
@@ -375,5 +397,10 @@ a:hover {
     margin: 0;
     font-size: 10.5pt;
     opacity: 0.85;
+  }
+
+  /* Hide download link in PDF */
+  .cv-download {
+    display: none !important;
   }
 }

@@ -10,9 +10,9 @@ classes: wide
 
 **Teaching in Higher Education** — Swedish University of Agricultural Sciences (SLU), Ultuna, Sweden · *2023*
 
-**PhD Program in Environmental Sciences** — Eötvös Loránd University, Budapest, Hungary · *2015–2021*
+**PhD in Environmental Sciences (summa cum laude)** — Eötvös Loránd University, Budapest, Hungary · *2015–2021*
 
-**Ecometabolomics for Ecologists (advanced course)** — German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany · *2019*
+**Ecometabolomics for Ecologists** — German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany · *2019*
 
 **MSc in Biology (with distinction)** — Plant Biology specialisation, Eötvös Loránd University, Budapest, Hungary · *2012–2014*
 

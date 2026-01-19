@@ -415,3 +415,54 @@ a:hover {
 .masthead__menu-item .active {
   box-shadow: inset 0 -2px 0 rgba(79, 111, 90, 0.85);
 }
+
+@media print {
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.25;
+    color: #111;
+  }
+
+  h1 { font-size: 22pt; margin: 0 0 6pt 0; }
+  h2 {
+    font-size: 12.5pt;
+    margin: 14pt 0 6pt 0;
+    padding-bottom: 3pt;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .header-meta {
+    font-size: 10.5pt;
+    color: #333;
+    margin-bottom: 10pt;
+  }
+
+  /* CV entry: two-column layout */
+  .cv-item {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10pt;
+    margin: 0 0 7pt 0;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .cv-title { font-weight: 700; }
+  .cv-org { font-weight: 500; }
+  .cv-loc { color: #555; }
+  .cv-date {
+    color: #333;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    text-align: right;
+  }
+
+  /* Optional: subsection labels like “Chemical analysis & spectroscopy” */
+  .cv-subhead {
+    font-weight: 700;
+    margin: 8pt 0 2pt 0;
+  }
+  .cv-subtext { margin: 0 0 6pt 0; }
+
+  a { color: inherit; text-decoration: none; }
+}

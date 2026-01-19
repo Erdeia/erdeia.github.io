@@ -134,6 +134,6 @@ GC–MS data analysis (MassHunter, MZmine2), data visualisation and multivariate
 </div>
 
 <div class="cv-item">
-  <span class="cv-title"><strong>Organising & hosting</strong>; talk & poster, 37th Conference of the International Society of Chemical Ecology (ISCE), Budapest, Hungary</span>
+  <span class="cv-title"><strong>Organising & hosting</strong>; 37th Conference of the International Society of Chemical Ecology (ISCE), Budapest, Hungary</span>
   <span class="cv-date">2018</span>
 </div>

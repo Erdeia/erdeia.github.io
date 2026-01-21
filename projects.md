@@ -13,12 +13,11 @@ title: Projects
   <div class="proj-section-text">
     <h2>Ongoing research projects</h2>
     <p>
-      My current research focuses on the identification of behaviour-modifying chemicals
-      and the associated olfactory receptors (ORs) that encode host specificity in the
-      codling moth, <em>Cydia pomonella</em>.
-      To address these questions, I combine chemical, electrohpysiological and behavioral approaches,
-      including volatile collection and analysis using gas chromatography coupled mass spectrometry (GCMS) and high resolution mass spectrometry (HRMS) and gas chromatography coupled
-      olfactory electrophysiology including electroantennography (GC-EAD) and single sensillum recording (GC-SSR). 
+      I am currently a postdoctoral researcher at the Swedish University of Agricultural Sciences (SLU), where I study the olfactory signals shaping the behavior of the codling moth, a major
+      pest in apple production. My work focuses on how plant- and insect-derived volatiles influence host choice and mating, with the goal of improving semiochemical based pest-management
+      strategies. In parallel, we have shown that attraction to the sex pheromone depends strongly on the surrounding host-volatile background, with implications for trap placement and the
+      design of more behaviorally informed orchard systems. In parallel, I am investigating the role of cuticular hydrocarbons (CHCs) and CHC-derived pheromones in species recognition and
+      larval behavior. Beyond agriculture, I also explore applied chemical ecology in broader contexts, including the volatile markers for foodborne pathogen (Souza et al. 2022). 
      </p>
   </div>
 </div> 
@@ -63,13 +62,13 @@ title: Projects
   </a>
 
   <div class="proj-section-text">
-    <h2>Interdisciplinary / artistic projects</h2>
+    <h2>Artistic interests</h2>
 
   <p>
-      Chemical cues form the primary language of plants and insects, yet remain largely
-      absent from human sensory culture.
-      Through chemical ecology and olfactory art, I explore how insect smellscapes can be
-      translated into embodied, affective experiences that open access to non-human worlds.
-    </p>
+    In addition to science, I have a long-standing interest in visual art, particularly the diversity of organic forms and how mutation and functional variation are inherent in diversity
+    and adaptation. While studying olfaction in my chemical ecology research, I developed an interest in multisensory art and wanted to communicate these processes beyond the laboratory. 
+    A key focus of my current outreach work is translating chemical communication into humanly perceivable and engaging forms. This allows non-human smellscapes to be shared not only as
+    data, but also as lived and sensed experiences, encouraging more empathetic engagement with non-human perception.    
+</p>
   </div>
 </div>

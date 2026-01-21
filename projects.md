@@ -16,8 +16,9 @@ title: Projects
       My current research focuses on the identification of behaviour-modifying chemicals
       and the associated olfactory receptors (ORs) that encode host specificity in the
       codling moth, <em>Cydia pomonella</em>.
-      To address these questions, I combine chemical, sensory, and physiological approaches,
-      including GC–SSR, GC–MS, GC–EAD, and HRMS.
+      To address these questions, I combine chemical, electrohpysiological and behavioral approaches,
+      including volatile collection and analysis using gas chromatography coupled mass spectrometry (GCMS) and high resolution mass spectrometry (HRMS) and gas chromatography coupled
+      olfactory electrophysiology including electroantennography (GC-EAD) and single sensillum recording (GC-SSR). 
      </p>
   </div>
 </div> 
@@ -34,12 +35,21 @@ title: Projects
   <div class="proj-section-text">
     <h2>Previous research projects</h2>
 
-   <p>
-    During my PhD, I investigated the biosynthesis and degradation of chlorophyll
-    precursors using fluorescence and absorption spectroscopy. My work later expanded to plant–herbivore–microbiome interactions and volatile cues
-    mediating insect behaviour, including studies on <em>Drosophila suzukii</em>. I have also contributed to research on invasive and emerging pests, 
-     including sex pheromone identification of <em>Duponchelia fovealis</em> repellents against <em>Cydalima perspectalis</em> repellents against <em>Lycoriella ingenua</em>
-        </p>
+   <p> 
+     I am a biologist specializing in photobiology and chemical ecology, with experience in agroindustry. My work links fundamental plant–insect research to sustainable food production, with
+     an emphasis on how ecological mechanisms can be translated into pest-management practice. 
+     I worked at the Plant Protection Institute of the Hungarian Academy of Sciences in close collaboration with farmers, focusing on the chemical communication of emerging and invasive
+     pests.   This included identifying the sex pheromone of <em>Duponchelia fovealis</em> (Molnár et al. 2018) to support monitoring and mating disruption, and demonstrating that essential
+     oils can  deter oviposition in the box tree moth (<em>Cydalima perspectalis</em>), a major threat to cultural landscapes where pesticide use is restricted (Szelényi, Erdei et al. 2020).
+     Responding to acute agricultural problems, we also developed yeast-based live baits for selective monitoring of spotted-wing drosophila (Erdei et al. 2022). When walnut husk fly
+     <em>Ragoletis completa</em> began causing serious yield losses in Hungary, we explored quince as a dead-end host, confirmed its preference over walnut, and identified key quince
+     volatiles guiding host choice—work that now informs orchard design and trap development to mitigate walnut damage (Kecskeméti et al. 2025).
+     I later joined the Swedish University of Agricultural Sciences (SLU), where I studied the maize–Desmodium push–pull intercropping system, often cited as a textbook example of
+     sustainable pest control. Rather than confirming the prevailing view that Desmodium repels moths, our results showed that it is preferred for larval feeding and may function mainly as a
+     physical barrier to dispersal (Erdei et al. 2024). This reframing helps explain why efforts to adapt push–pull systems to other crops have frequently failed and highlights the 
+     importance of understanding underlying mechanisms before scaling ecological interventions. Across these projects, my work centers on using chemical ecology to understand pest behavior
+     and to design interventions that are both biologically grounded and practically viable, developed in continuous dialogue with growers and other end users.
+</p>
   </div>
 </div>
 

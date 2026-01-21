@@ -81,8 +81,7 @@ The great diversity of specialist plant-feeding insects suggests that host plant
       <summary>Abstract</summary>
       <p>
 Phortica variegata exhibits sexual dimorphism in olfactory responsivity, with males showing greater responsiveness to volatiles associated with host-seeking in other zoophilic dipterans, potentially guiding them to mammalian hosts for tear-feeding. Compared to D. melanogaster, P. variegata is more responsive to microbial and yeast-related volatiles and less responsive to plant-derived terpenoids, suggesting a foraging ecology linked to microbial substrates. The antennally detected volatiles identified in this study can be used as candidates for further behavioral studies to develop lures for vector management.
-
- </p>
+      </p>
     </details>
   </div>
 </div>
@@ -110,8 +109,7 @@ Phortica variegata exhibits sexual dimorphism in olfactory responsivity, with ma
       <summary>Abstract</summary>
       <p>
 Host finding behaviour and host acceptance for oviposition is a rather complex process amongst insects; it is a major decision that will have a direct effect on the performance of offspring. It is not uncommon that herbivorous insects oviposit on unsuitable hosts. The level of insect-host specialisation correlates with the likelihood of mis-oviposition incidence; polyphagous herbivore insect species have a higher chance to lay eggs on unsuitable hosts compared to specialised monophagous ones. Over several seasons, large numbers of walnut husk fly adults were observed on the canopy and fruit of European quince. Males were engaging in behaviours like fighting, courting, mating, and guarding oviposition sites, while females copulated, oviposited, or rested. Oviposition marks were found on quince fruits, with unhatched eggs, chorions, and newly hatched maggots inside. Molecular identification confirmed the species as Rhagoletis completa. To investigate this unusual host interaction, electrophysiological recordings were conducted on the antennae and maxillary palpi of WHF adults using quince and walnut fruit and foliage volatiles. Behavioural experiments also explored any preference for quince. The results showed that WHF adults, especially females, exhibited a positive attraction to quince fruit volatiles, indicating that their peripheral detection of volatiles is not limited to host-specific compounds. Based on these findings, we conclude that WHF adults treated quince as a suitable host for oviposition in a natural condition.
-
- </p>
+      </p>
     </details>
   </div>
 </div>
@@ -141,8 +139,7 @@ Nyikó, T., Gyula, P., Ráth, S., Sós-Hegedűs, A., Csorba, T., Abbas, S. H.,
       <summary>Abstract</summary>
       <p>
 DNA methylation, a dynamic epigenetic mark influencing gene expression, is regulated by DNA demethylases that remove methylated cytosines at genomic regions marked by the INCREASED DNA METHYLATION (IDM) complex. In Arabidopsis, IDM3, a small alpha-crystalline domain-containing protein, stabilises the IDM complex. To investigate its role in tomato, we generated slidm3 mutants using genome editing. These mutants displayed a 'hairy' phenotype with increased glandular trichomes, resembling the hairplus (hap) mutant. Affinity purification of SlIDM3-GFP associated proteins identified several chromatin remodelling factors, including HAP. Genome-wide DNA methylation analysis revealed sequence context dependent alterations in the slidm3-1 plants, similar to the hap mutant. CHH methylation was predominantly increased, while CG methylation, particularly in intergenic regions, was decreased in both mutants. This imbalanced methylation suggests the presence of a 'methylstat' mechanism attempting to restore methylation levels at abnormally demethylated sites in the mutants. Comparative functional analysis of differentially methylated regions in the slidm3-1 and hap mutants identified potential methylation-regulated genes that could be linked to the hairy phenotype. Our findings indicate that SlIDM3 may form a chromatin remodelling complex with HAP, epigenetically regulating trichome development.
-
- </p>
+      </p>
     </details>
   </div>
 </div>

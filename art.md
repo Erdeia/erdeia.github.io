@@ -12,7 +12,7 @@ A curated selection of visual work.
 <div class="art-grid">
 
   <figure class="art-card">
-    <img src="/images/art/art-01.jpg" alt="Artwork 1">
+    <img src="/img/art/art-01.jpg" alt="Artwork 1">
     <figcaption>
       <strong>Title I</strong><br>
       Medium, year
@@ -20,7 +20,7 @@ A curated selection of visual work.
   </figure>
 
   <figure class="art-card">
-    <img src="/images/art/art-02.jpg" alt="Artwork 2">
+    <img src="/img/art/art-02.jpg" alt="Artwork 2">
     <figcaption>
       <strong>Title II</strong><br>
       Medium, year
@@ -28,7 +28,7 @@ A curated selection of visual work.
   </figure>
 
   <figure class="art-card">
-    <img src="/images/art/art-03.jpg" alt="Artwork 3">
+    <img src="/img/art/art-03.jpg" alt="Artwork 3">
     <figcaption>
       <strong>Title III</strong><br>
       Medium, year
@@ -36,7 +36,7 @@ A curated selection of visual work.
   </figure>
 
   <figure class="art-card">
-    <img src="/images/art/art-04.jpg" alt="Artwork 4">
+    <img src="/img/art/art-04.jpg" alt="Artwork 4">
     <figcaption>
       <strong>Title IV</strong><br>
       Medium, year

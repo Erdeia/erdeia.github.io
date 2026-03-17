@@ -61,14 +61,11 @@ body {
   margin-bottom: 0.25rem;
 }
 
+/* Default masthead for subpages */
 .masthead {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+  position: relative;
   background: transparent;
   border-bottom: none;
-  z-index: 20;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
@@ -84,7 +81,7 @@ body {
   font-weight: 700;
   letter-spacing: -0.03em;
   line-height: 1;
-  color: white !important;
+  color: #111 !important;
 }
 
 .masthead__menu-item {
@@ -94,7 +91,7 @@ body {
 }
 
 .masthead__menu-item a {
-  color: white !important;
+  color: #111 !important;
   border-bottom: none;
   box-shadow: none !important;
 }
@@ -102,8 +99,30 @@ body {
 .masthead__menu-item a:hover,
 .masthead__menu-item a:focus,
 .masthead__menu-item .active {
-  color: rgba(255, 255, 255, 0.8) !important;
+  color: #444 !important;
   box-shadow: none !important;
+}
+
+/* Homepage only: masthead over hero image */
+.home .masthead {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 20;
+}
+
+.home .site-title,
+.home .masthead__site-title,
+.home .greedy-nav .site-title,
+.home .masthead__menu-item a {
+  color: white !important;
+}
+
+.home .masthead__menu-item a:hover,
+.home .masthead__menu-item a:focus,
+.home .masthead__menu-item .active {
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 
 .site-title,

@@ -466,3 +466,24 @@ a:hover {
 
   a { color: inherit; text-decoration: none; }
 }
+
+.tile-grid--stacked {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.tile-grid--stacked .tile {
+  min-height: 220px;
+  width: 100%;
+}
+
+.tile-grid--stacked .tile--projects,
+.tile-grid--stacked .tile--publications,
+.tile-grid--stacked .tile--teaching,
+.tile-grid--stacked .tile--cv,
+.tile-grid--stacked .tile--art {
+  grid-column: auto !important;
+  grid-row: auto !important;
+}

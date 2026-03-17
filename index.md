@@ -13,7 +13,7 @@ header:
 
 I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management. My interest lies in making the chemical communication humanly perceptible and re-imagining transient chemical signals through scientific and artistic practices.
 
-<div class="tile-grid">
+<div class="tile-grid tile-grid--stacked">
 
   <a class="tile tile--projects" href="/projects.html">
     <span class="tile__label">Projects</span>
@@ -28,13 +28,14 @@ I study the chemical ecology of plant–insect–microbe interactions, focusing 
   </a>
 
   <a class="tile tile--cv" href="/cv/">
-  <span class="tile__label">CV</span>
-</a>
+    <span class="tile__label">CV</span>
+  </a>
 
-<a class="tile tile--art"
-   href="https://www.instagram.com/anna_tardigrada/"
-   target="_blank"
-   rel="noopener noreferrer">
-  <span class="tile__label">Art</span>
-</a>
+  <a class="tile tile--art"
+     href="https://www.instagram.com/anna_tardigrada/"
+     target="_blank"
+     rel="noopener noreferrer">
+    <span class="tile__label">Art</span>
+  </a>
+
 </div>

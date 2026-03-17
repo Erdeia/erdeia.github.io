@@ -61,7 +61,7 @@ body {
   margin-bottom: 0.25rem;
 }
 
-/* Default masthead for subpages */
+/* Default masthead for all subpages */
 .masthead {
   position: relative;
   background: transparent;
@@ -103,8 +103,8 @@ body {
   box-shadow: none !important;
 }
 
-/* Homepage only: masthead over hero image */
-.home .masthead {
+/* Homepage only: masthead over the big image */
+.home-page .masthead {
   position: absolute;
   top: 0;
   left: 0;
@@ -112,26 +112,17 @@ body {
   z-index: 20;
 }
 
-.home .site-title,
-.home .masthead__site-title,
-.home .greedy-nav .site-title,
-.home .masthead__menu-item a {
+.home-page .site-title,
+.home-page .masthead__site-title,
+.home-page .greedy-nav .site-title,
+.home-page .masthead__menu-item a {
   color: white !important;
 }
 
-.home .masthead__menu-item a:hover,
-.home .masthead__menu-item a:focus,
-.home .masthead__menu-item .active {
+.home-page .masthead__menu-item a:hover,
+.home-page .masthead__menu-item a:focus,
+.home-page .masthead__menu-item .active {
   color: rgba(255, 255, 255, 0.8) !important;
-}
-
-.site-title,
-.masthead__site-title,
-.greedy-nav .site-title {
-  font-size: 1.6rem;
-  font-weight: 700;
-  letter-spacing: -0.03em;
-  line-height: 1;
 }
 
 /* Publications layout */

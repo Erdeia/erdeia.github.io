@@ -80,7 +80,7 @@ body {
 .site-title,
 .masthead__site-title,
 .greedy-nav .site-title {
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-weight: 700;
   letter-spacing: -0.03em;
   line-height: 1;
@@ -88,7 +88,7 @@ body {
 }
 
 .masthead__menu-item {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   font-weight: 500;
   letter-spacing: -0.01em;
 }
@@ -284,7 +284,7 @@ a:hover {
   position: relative;
   z-index: 2;
   color: rgba(245, 245, 240, 0.85);
-  font-size: clamp(2.2rem, 4vw, 4.2rem);
+  font-size: clamp(1.8rem, 3vw, 3.2rem);
   font-weight: 700;
   letter-spacing: -0.03em;
   line-height: 1;

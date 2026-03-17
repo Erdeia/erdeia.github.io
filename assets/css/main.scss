@@ -189,8 +189,8 @@ a:hover {
 .tile {
   position: relative;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-end;
+  justify-content: flex-start;
   width: 100%;
   min-height: 220px;
   overflow: hidden;

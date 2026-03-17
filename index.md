@@ -3,7 +3,7 @@ layout: single
 title: "Introduction"
 permalink: /
 author_profile: true
-classes: wide
+classes: wide home-page
 
 header:
   image: /assets/img/home-hero.jpg

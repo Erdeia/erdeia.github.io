@@ -11,10 +11,12 @@ header:
   overlay_filter: 0.25
 ---
 
-I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management. My interest lies in making the chemical communication humanly perceptible and re-imagining transient chemical signals through scientific and artistic practices.
+I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management.
+
+My interest lies in making the chemical communication humanly perceptible and re-imagining transient chemical signals through scientific and artistic practices.
 
 <div class="tile-grid">
-  
+
   <a class="tile tile--projects" href="/projects.html">
     <span class="tile__label">Projects</span>
   </a>

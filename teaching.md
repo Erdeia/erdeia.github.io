@@ -9,7 +9,7 @@ title: Teaching
 I have not yet held a formal appointment as a PhD co-supervisor; however, I am practically supervising several PhD students within my department, as well as students in other departments, whose projects involve GC–MS analysis and data evaluation. My supervision focuses on experimental design, analytical workflows, and interpretation of chemical ecology data.
 
 ### MSc and BSc students
-- Supervision of MSc and BSc students (2024–2025): 2 students
+- Supervision of MSc and BSc students (2024–2026): 3 students
 
 ---
 
@@ -17,7 +17,7 @@ I have not yet held a formal appointment as a PhD co-supervisor; however, I am p
 
 ### Courses and supervision (selected)
 
-**2025**
+**2025-2026**
 - *Practical research training* (BI1436), MSc  
   Organizer  
   Swedish University of Agricultural Sciences (SLU), Sweden
@@ -32,6 +32,10 @@ I have not yet held a formal appointment as a PhD co-supervisor; however, I am p
 
 - *Independent project in Biology* (EX0855), BSc, 15 ECTS  
   Examinator  
+  Swedish University of Agricultural Sciences (SLU), Sweden
+
+- *Chemical Ecology for Sustainable Insect Pest Control* (BI1346), MSc, 7 ECTS  
+  Teacher -Organic chemistry  
   Swedish University of Agricultural Sciences (SLU), Sweden
 
 **2024–2025**

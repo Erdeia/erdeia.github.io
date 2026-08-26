@@ -68,7 +68,7 @@ Headspace sampling, SPME, adsorbent traps, GC–olfactometry, electroantennograp
 Laboratory and field bioassays, behavioral assays, field trials
 
 **Data analysis**  
-GC–MS data analysis (MassHunter, MZmine2), data visualisation and multivariate statistics in **R** and **R Markdown**
+GC–MS data analysis (MassHunter, MZmine2), data visualisation and multivariate statistics in **R** and use of **R Markdown**
 
 ---
 

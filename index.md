@@ -11,8 +11,7 @@ header:
   overlay_filter: 0.25
 ---
 
-I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication and its applications in pest management.
-
+I study the chemical ecology of plant–insect–microbe interactions, focusing on volatile-mediated communication.
 
 <div class="tile-grid">
 

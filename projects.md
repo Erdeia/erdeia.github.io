@@ -64,10 +64,7 @@ title: Projects
     <h2>Artistic interests</h2>
 
   <p>
-    In addition to science, I have a long-standing interest in visual art, particularly the diversity of organic forms and how mutation and functional variation are inherent in diversity
-    and adaptation. While studying olfaction in my chemical ecology research, I developed an interest in multisensory art and how to communicate olfactory processes beyond the walls of the
-    laboratory. A key focus of my current outreach work is translating non-human modes of chemical communication into humanly perceivable and engaging forms. This allows non-human
-    smellscapes to be shared not only as data, but also as lived and sensed experiences, encouraging more empathetic engagement with non-human perception.    
+    In addition to science, I have a long-standing interest in visual art, particularly the diversity of organic forms, and the way in which mutation and functional variation are inherent to evolution. While studying olfaction and natural volatile compounds, I developed a keen interest in multisensory art and in communicating olfactory experiences beyond the laboratory. A key focus of my current outreach work involves translating non-human modes of chemical communication into art forms that can be perceived and engaged with by humans. This enables non-human smellscapes to be shared not only as data, but also as lived and sensed experiences, thereby encouraging a more empathetic approach to non-human habitants of our environment.    
 </p>
   </div>
 </div>

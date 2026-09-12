@@ -13,11 +13,11 @@ title: Projects
   <div class="proj-section-text">
     <h2>Ongoing research projects</h2>
     <p>
-      I am currently a postdoctoral researcher at the Swedish University of Agricultural Sciences (SLU), where I study the olfactory signals shaping the behavior of the codling moth, a major
-      pest in apple production. My work focuses on how plant- and insect-derived volatiles influence host choice and mating, with the goal of improving semiochemical based pest-management
-      strategies. In parallel, we have shown that attraction to the sex pheromone depends strongly on the surrounding host-volatile background, with implications for trap placement and the
-      design of more behaviorally informed orchard systems. In parallel, I am investigating the role of cuticular hydrocarbons (CHCs) and CHC-derived pheromones in species recognition and
-      larval behavior. Beyond agriculture, I also explore applied chemical ecology in broader contexts, including the volatile markers for foodborne pathogens. 
+     My research focuses on the ecology of plant–insect–microbe interactions, with particular interest in how chemical signals, microbial communities, and species interactions shape agricultural ecosystems. I combine field and laboratory approaches with chemical and ecological analyses to investigate processes that connect plants, insects, and their associated microorganisms.
+
+My recent work spans several complementary systems. I am investigating volatile indicators of phyllosphere microbial communities, exploring whether microbial activity on plant surfaces can be detected through characteristic chemical signatures. I also study aphid–hoverfly interactions, with a focus on the ecological and chemical cues that influence predator–prey relationships and hoverfly behaviour. In parallel, my work on codling moth examines factors affecting the ecology and behaviour of this important fruit-crop pest.
+
+Together, these projects reflect my broader interest in understanding the often hidden chemical and biological interactions that structure agroecosystems, and in translating ecological knowledge into more sustainable approaches to crop protection and pest management.
      </p>
   </div>
 </div> 

@@ -125,6 +125,20 @@ body {
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
+/* Mobile hamburger dropdown */
+.home-page .greedy-nav .hidden-links {
+  background: #ffffff !important;
+}
+
+.home-page .greedy-nav .hidden-links .masthead__menu-item a {
+  color: #111111 !important;
+}
+
+.home-page .greedy-nav .hidden-links .masthead__menu-item a:hover,
+.home-page .greedy-nav .hidden-links .masthead__menu-item a:focus {
+  color: #444444 !important;
+}
+
 /* Publications layout */
 .pub {
   display: grid;
